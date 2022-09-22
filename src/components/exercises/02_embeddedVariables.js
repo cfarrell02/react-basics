@@ -6,7 +6,7 @@ const Demo = () => {
   {name: "Enterprise Web Dev",noLectures: 3, noPracticals: 2}]
   return (
     <div>
-      <h1>TODO</h1>
+      <h1>MSc Computing - Modules table.</h1>
       <table className="table table-bordered">
   <thead>
     <tr>
